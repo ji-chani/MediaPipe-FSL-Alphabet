@@ -11,3 +11,14 @@ Once the features are gathered, the dataset is divided using a 80:20 train-test 
 
 ## Framework
 ![image](https://github.com/ji-chani/MediaPipe-FSLR/assets/120572492/9a507c34-bb3d-42dc-b980-141c89f42a88)
+
+
+## Important Results
+![image](https://github.com/ji-chani/MediaPipe-FSL-Alphabet/assets/120572492/6e2e4cf5-9577-4215-8ae0-c998793b7a52)
+
+![image](https://github.com/ji-chani/MediaPipe-FSL-Alphabet/assets/120572492/8d174983-a51a-4aaa-b455-2bd9c15d9ea4)
+
+![image](https://github.com/ji-chani/MediaPipe-FSL-Alphabet/assets/120572492/d1ddd19a-502c-4988-9c32-53876b4850ed)
+
+![image](https://github.com/ji-chani/MediaPipe-FSL-Alphabet/assets/120572492/3abd6211-47d4-4ebd-81ab-6b24f3fe84b6)
+
